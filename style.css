@@ -1,0 +1,280 @@
+body{
+    background-color: antiquewhite;
+    margin-top: 18px;
+}
+
+.heading{
+    outline: solid;
+    height: 275px;
+    background-color: azure;
+}
+
+.address{
+    outline: solid;
+    height: 80px;
+    margin-top: -2cm;
+    background-color: azure;
+}
+
+
+h1 {
+    text-align: center;
+    margin-top: -111px;
+    float: middle;
+}
+
+h2 {
+    text-align: center;
+    font-size: 27px;
+    margin-top: -10px;
+}
+
+img {
+    margin-left: 25px;
+    margin-top: 40px;
+    width: 10%;
+}
+
+input {
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.location {
+    margin-top: 100px;
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+.UHID {
+    margin-top: -60px;
+    float: right;
+    margin-right: 220px;
+    font-weight: bold;
+}
+
+.UHID1{
+    margin-right: 20px;
+    margin-top: -60px;
+    width: 180px;  
+    float: right;
+}
+
+.date{
+    margin-top: -35px;  
+    margin-right: 268px;
+    font-weight: bold;
+    float: right;
+}
+
+.da{
+    margin-top: -33px;
+    float: right;
+    margin-right: 145px;
+}
+
+
+.Patientdetail{
+    text-align: center;
+    font-size: 23px;
+    font-weight: bold;
+    margin-top: 26px;
+}
+
+.Patient{
+    outline: solid;
+    height: 255px;
+    background-color: azure;;
+}
+
+p2{
+    font-size: 19px;
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+p3{
+    font-size: 19px;
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+p4{
+    font-size: 19px;
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+p5{
+    font-size: 19px;
+    margin-left: 20px;
+}
+
+p6{
+    font-size: 19px;
+    margin-left: 82px;
+}
+
+p7{
+    font-size: 19px;
+    margin-left: 82px;
+}
+
+p8{
+    float: right;
+    margin-right: 50px;
+    margin-top: -230px;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+p9{
+    float: right;
+    margin-right: 112px;
+    font-size: 19px;
+    margin-top: -150px;
+    font-weight: bold;
+}
+
+.ff{
+    margin-top: -8px;
+    font-size: 19px;
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+.qq{
+    width: 150px;   
+}
+
+.mo{
+    margin-top: -211px;   
+}
+
+.ti {
+    margin-top: -133px;   
+}
+.aa{
+    margin-top: 10px;
+    margin-right: 60px;   
+} 
+
+.gg{
+    margin-top: 10px;
+    width: 200px;   
+}
+
+.ggg{
+    margin-top: -5px;
+    width: 60px;   
+}
+
+.ggggg{
+    margin-left: 100px;
+    margin-top: -38px;
+    width: 350px;    
+}
+
+.dia{
+    text-align: center;
+    margin-top: 28px;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.uuu{ 
+    margin-left: 20px;
+    font-size: 17px;
+    margin-top: -50px;
+    font-family: arial black;
+}
+
+
+.diagnostic{
+    outline: solid;
+    margin-top: 20px;
+    height: 2320px;
+    background-color: beige;
+}
+  
+.dt{
+   margin-left: -2px;
+}  
+.nn{
+    height: 15px;
+   margin-left: -2px;
+}
+
+.ef{
+    margin-left: 20px;
+    font-size: 17px;
+    font-family: arial black;
+}
+
+.nb{
+    margin-left: 20px;
+    font-size: 17px;
+    font-family: arial black;
+}
+
+.no{
+    margin-left: 20px;
+    font-size: 17px;
+    font-family: arial black;
+}
+
+
+.mk{
+    margin-left: 20px;
+    font-size: 17px;
+    font-family: arial black;
+}
+
+
+.fua{
+    margin-left: 20px;
+    font-size: 17px;
+    font-family: arial black;
+}
+
+
+.dnd{
+    margin-left: 20px;
+    font-size: 20px;
+    float: right;
+    margin-right: 90px;
+    margin-top: 135px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.sd{
+    margin-left: 20px;
+    font-size: 20px;
+    float: right;
+    margin-right: -148px;
+    margin-top: 180px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.xx{
+    margin-left: 230px;
+    margin-top: -40px;   
+}
+
+.xxx{
+    margin-top: -40px;
+    margin-left: 230px;
+}
+.xxxx{
+    margin-top: -40px;
+    margin-left: 230px;
+}
+.xxxxx{
+    margin-top: -40px;
+    margin-left: 230px;
+}
+
+.kk{
+    margin-top: -40px;
+    margin-left: 230px;
+}
